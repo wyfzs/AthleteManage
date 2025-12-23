@@ -1,0 +1,31 @@
+/* SpecialTrain.css */
+.custom-select {
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.custom-select .ant-select-selection-item {
+    color: #333;
+}
+
+.custom-select .ant-select-arrow {
+    color: #666;
+}
+
+/* 增加表单的整体样式 */
+.ant-form-item-label {
+    font-size: 18px;
+    /* 调整字体大小 */
+    font-weight: bold;
+    color: #333;
+    /* 调整字体颜色 */
+}
+
+.ant-form-item-control-input-content {
+    margin-top: 8px;
+}
+
+.ant-btn-primary {
+    font-size: 16px;
+    padding: 8px 24px;
+}

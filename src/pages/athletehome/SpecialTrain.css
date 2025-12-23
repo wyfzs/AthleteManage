@@ -1,0 +1,30 @@
+.markdown-content h3 {
+    margin-top: 24px;
+    font-size: 18px;
+    color: #1890ff;
+    border-bottom: 1px solid #eaeaea;
+    padding-bottom: 8px;
+}
+
+.markdown-content table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 16px 0;
+}
+
+.markdown-content th,
+.markdown-content td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.markdown-content pre {
+    background-color: #f7f7f7;
+    padding: 10px;
+    overflow-x: auto;
+}
+
+.table-wrapper {
+    overflow-x: auto;
+}

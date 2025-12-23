@@ -1,0 +1,36 @@
+/* index.css */
+.container {
+    padding: 24px;
+}
+
+.ant-pro-table {
+    width: 100%;
+    min-width: 800px;
+    /* 设置最小宽度 */
+}
+
+.ant-pro-table .ant-table {
+    border: 1px solid #f0f0f0;
+    border-radius: 4px;
+}
+
+.ant-pro-table .ant-table-thead th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+}
+
+.ant-pro-table .ant-table-tbody td {
+    padding: 16px;
+}
+
+.ant-pro-table .ant-table-pagination {
+    margin-top: 16px;
+}
+
+.ant-pro-table .even-row {
+    background-color: #f9f9f9;
+}
+
+.ant-pro-table .odd-row {
+    background-color: #ffffff;
+}
